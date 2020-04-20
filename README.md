@@ -1,6 +1,6 @@
 # Forex-Gaps
 
-![alt text](https://github.com/rustemshinkaruk/Forex-Gaps/blob/master/forex%20gaps.png)
+![alt text](https://github.com/rustemshinkaruk/Forex-Gaps/blob/master/forex%20gaps%202.png)
 
 Forex Gaps
 
